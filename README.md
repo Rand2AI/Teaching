@@ -1,2 +1,3 @@
-# COMP52715 @ Durham University
-COMP52715: Deep Learning for Computer Vision and Robotics
+# Teaching Materials
+COMP2271 (Durham): Data Science - Graphics Part
+COMP52715 (Durham): Deep Learning for Computer Vision and Robotics
